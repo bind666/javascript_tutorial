@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    list-style: none;
+    background: lightblue;
+}
+nav li{
+    padding: 0 23px;
+    margin: 10px;
+    font-size: 2rem;
+}
